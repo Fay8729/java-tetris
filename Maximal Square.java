@@ -27,7 +27,7 @@ public class Solution {
         return ans*ans;
     }
 }
-///////////////////////////////////////////////////// 普通算法
+************************************************** 普通算法
 public class Solution {
     /**
      * @param matrix: a matrix of 0 and 1
